@@ -13,3 +13,7 @@ Lab 8
 
 
 ![](https://github.com/tns11/Lab-8_202001044/blob/main/ScreenShot1.PNG)
+
+
+-> I made the test cases, and executed them in JUnit. Following is the corresponding output:
+![](https://github.com/tns11/Lab-8_202001044/blob/main/UniTesting.PNG)
